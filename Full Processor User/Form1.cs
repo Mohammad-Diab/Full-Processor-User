@@ -26,7 +26,7 @@ namespace Full_Processor_User
             stop_thread = false;
             int corescount = 1;
             foreach (var item in new ManagementObjectSearcher("Select NumberOfCores from Win32_Processor").Get())
-                corescount = Convert.ToInt32(item["NumberOfCores"]);
+                corescount += Convert.ToInt32(item["NumberOfCores"]);
 
             bool[] refrance = new bool[1000000];
             refrance[2] = false;
