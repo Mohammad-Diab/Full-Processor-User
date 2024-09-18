@@ -17,7 +17,7 @@ Windows with .NET Framework 3.5 (it includes 2.0). On Windows 10 and 11 it is an
 
 ## Usage
 
-Download `Full-Processor-User-v1.0.1.7z` from [Releases](https://github.com/Mohammad-Diab/Full-Processor-User/releases), extract it, and run `Full Processor User.exe`. There is no installer.
+Download `Full-Processor-User-v1.0.2.7z` from [Releases](https://github.com/Mohammad-Diab/Full-Processor-User/releases), extract it, and run `Full Processor User.exe`. There is no installer.
 
 The exe is not signed, so Windows SmartScreen may warn the first time you run it: click **More info**, then **Run anyway**.
 
