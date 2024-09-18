@@ -91,7 +91,7 @@ namespace Full_Processor_User
 
         private void button4_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Full Processor User App\nby: Dr.Mohammad@outloook.com", "Full Processor User", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Full Processor User App\nby: mohammad.diab93@outlook.com", "Full Processor User", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
