@@ -4,7 +4,7 @@ A small Windows app that keeps the processor at full load until you stop it. Wri
 
 ## Features
 
-- **Start** runs busy loops on threads with Highest priority: one for each processor core reported by Windows (`NumberOfCores` from WMI, added up over all processors), plus one.
+- **Start** runs busy loops on threads with Highest priority: one for each processor core reported by Windows (`NumberOfCores` from WMI, added up over all processors).
 - **Stop** ends the threads; **Start** can then run them again.
 - **exit** stops the threads and closes the app. Closing the window stops them too.
 - **about** shows who wrote the app.
